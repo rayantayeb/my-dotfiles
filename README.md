@@ -1,3 +1,4 @@
+ HEAD
 # 🚀 Rayan's Dotfiles
 
 Welcome to my personal dotfiles repository! This repo contains the configuration files for my daily driver, customized for a clean, fast, and productive workflow.
@@ -23,3 +24,9 @@ git clone [https://github.com/rayantayeb/my-dotfiles.git](https://github.com/ray
 cd my-dotfiles
 cp -r kitty ~/.config/
 cp -r hypr ~/.config/
+
+# Rayan Hyprland Dotfiles
+
+## My Ricing Journey
+* **Day 2:** Fixed Nvidia RTX 5070 drivers, 144Hz setup, installed JetBrains Mono Nerd font, Pipewire audio, Rofi, and Kali-like Zsh terminal.
+ (Day 2: Audio, Fonts, Rofi, System Fixes, and Zsh)
